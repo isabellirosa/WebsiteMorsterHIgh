@@ -55,124 +55,125 @@ const personagens = ref([
   {
     id: 1,
     nome: 'Frankie Stein',
-    imagem: 'src/assets/imagens/frank.png',
-    imagemInteira: 'src/assets/imagens/frankie2.png',
+    imagem: '/imagens/frank.png',
+    imagemInteira: '/imagens/frankie2.png',
   },
   {
     id: 2,
     nome: 'Draculaura',
-    imagem: 'src/assets/imagens/draculaura.png',
-    imagemInteira: 'src/assets/imagens/draculaura2.png',
+    imagem: '/imagens/draculaura.png',
+    imagemInteira: '/imagens/draculaura2.png',
   },
   {
     id: 3,
     nome: 'Clawdeen Wolf',
-    imagem: 'src/assets/imagens/clawdeen.png',
-    imagemInteira: 'src/assets/imagens/clawdeen2.png',
+    imagem: '/imagens/clawdeen.png',
+    imagemInteira: '/imagens/clawdeen2.png',
   },
   {
     id: 4,
     nome: 'Lagoona Blue',
-    imagem: 'src/assets/imagens/lagoona.png',
-    imagemInteira: 'src/assets/imagens/lagoona2.png',
+    imagem: '/imagens/lagoona.png',
+    imagemInteira: '/imagens/lagoona2.png',
   },
   {
     id: 5,
     nome: 'Cleo de Nile',
-    imagem: 'src/assets/imagens/cleo.png',
-    imagemInteira: 'src/assets/imagens/cleo2.png',
+    imagem: '/imagens/cleo.png',
+    imagemInteira: '/imagens/cleo2.png',
   },
   {
     id: 6,
     nome: 'Ghoulia Yelps',
-    imagem: 'src/assets/imagens/ghoulia.png',
-    imagemInteira: 'src/assets/imagens/ghoulia2.png',
+    imagem: '/imagens/ghoulia.png',
+    imagemInteira: '/imagens/ghoulia2.png',
   },
   {
     id: 7,
     nome: 'Abbey Bominable',
-    imagem: 'src/assets/imagens/abby.png',
-    imagemInteira: 'src/assets/imagens/abbey2.png',
+    imagem: '/imagens/abby.png',
+    imagemInteira: '/imagens/abbey2.png',
   },
   {
     id: 8,
     nome: 'Spectra Vondergeist',
-    imagem: 'src/assets/imagens/spcetra.png',
-    imagemInteira: 'src/assets/imagens/spcetra2.png',
+    imagem: '/imagens/spcetra.png',
+    imagemInteira: '/imagens/spcetra2.png',
   },
   {
     id: 9,
     nome: 'Deuce Gorgon',
-    imagem: 'src/assets/imagens/deucegorgon.png',
-    imagemInteira: 'src/assets/imagens/deucegorgon2.png',
+    imagem: '/imagens/deucegorgon.png',
+    imagemInteira: '/imagens/deucegorgon2.png',
   },
   {
     id: 10,
     nome: 'Clawd Wolf',
-    imagem: 'src/assets/imagens/clawd.png',
-    imagemInteira: 'src/assets/imagens/clawd2.png',
+    imagem: '/imagens/clawd.png',
+    imagemInteira: '/imagens/clawd2.png',
   },
   {
     id: 11,
     nome: 'C.A. Cupid',
-    imagem: 'src/assets/imagens/cupido.png',
-    imagemInteira: 'src/assets/imagens/cupido2.png',
+    imagem: '/imagens/cupido.png',
+    imagemInteira: '/imagens/cupido2.png',
   },
   {
     id: 12,
     nome: 'Elissabat',
-    imagem: 'src/assets/imagens/elissabet.png',
-    imagemInteira: 'src/assets/imagens/elissabet2.png',
+    imagem: '/imagens/elissabet.png',
+    imagemInteira: '/imagens/elissabet2.png',
   },
   {
     id: 13,
     nome: 'Gil Webber',
-    imagem: 'src/assets/imagens/gil.png',
-    imagemInteira: 'src/assets/imagens/gil2.png',
+    imagem: '/imagens/gil.png',
+    imagemInteira: '/imagens/gil2.png',
   },
   {
     id: 14,
     nome: 'Heath Burns',
-    imagem: 'src/assets/imagens/heart.png',
-    imagemInteira: 'src/assets/imagens/heart2.png',
+    imagem: '/imagens/heart.png',
+    imagemInteira: '/imagens/heart2.png',
   },
   {
     id: 15,
     nome: 'Holt Hyde',
-    imagem: 'src/assets/imagens/holt.png',
-    imagemInteira: 'src/assets/imagens/holt2.png',
+    imagem: '/imagens/holt.png',
+    imagemInteira: '/imagens/holt2.png',
   },
   {
     id: 16,
     nome: 'Operetta',
-    imagem: 'src/assets/imagens/operatta.png',
-    imagemInteira: 'src/assets/imagens/operatta2.png',
+    imagem: '/imagens/operatta.png',
+    imagemInteira: '/imagens/operatta2.png',
   },
   {
     id: 17,
     nome: 'Rochelle Goyle',
-    imagem: 'src/assets/imagens/rochelle.png',
-    imagemInteira: 'src/assets/imagens/rochelle2.png',
+    imagem: '/imagens/rochelle.png',
+    imagemInteira: '/imagens/rochelle2.png',
   },
   {
     id: 18,
     nome: 'Skelita Calaveras',
-    imagem: 'src/assets/imagens/skelita.png',
-    imagemInteira: 'src/assets/imagens/skelita2.png',
+    imagem: '/imagens/skelita.png',
+    imagemInteira: '/imagens/skelita2.png',
   },
   {
     id: 19,
     nome: 'Venus McFlytrap',
-    imagem: 'src/assets/imagens/venus.png',
-    imagemInteira: 'src/assets/imagens/venus2.png',
+    imagem: '/imagens/venus.png',
+    imagemInteira: '/imagens/venus2.png',
   },
   {
     id: 20,
     nome: 'Toralei Stripe',
-    imagem: 'src/assets/imagens/tolarei.png',
-    imagemInteira: 'src/assets/imagens/tolarei2.png',
+    imagem: '/imagens/tolarei.png',
+    imagemInteira: '/imagens/tolarei2.png',
   },
 ])
+
 </script>
 
 <template>
@@ -233,7 +234,7 @@ const personagens = ref([
       </section>
       <div v-if="!vazio" class="titulo">
        <h1>Calculadora do Amor</h1>
-       <img src="/src/assets/imagens/logo.png" alt="">
+       <img src="/imagens/logo.png" alt="">
        </div>
        <button v-if="camposPreenchidos && cobrir== ''" class="button" @click="aparecer = null ; cobrir= 'tudo';gerarPorcentagem()" >
           Calcular

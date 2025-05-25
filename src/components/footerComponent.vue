@@ -6,7 +6,7 @@ import { RouterLink } from 'vue-router'
   <footer class="footer">
     <div class="footer-content">
       <div class="logo-section">
-        <img class="logo" src="@/assets/imagens/caveira.png" alt="Logo Monster High" />
+        <img class="logo" src="/imagens/caveira.png" alt="Logo Monster High" />
       </div>
 
       <div class="links-section">

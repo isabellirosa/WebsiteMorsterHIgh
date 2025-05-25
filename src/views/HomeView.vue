@@ -4,7 +4,7 @@ import caroselProdutos from '@/components/caroselProdutos.vue';
 
 <template>
   <main>
-    <img class="home-img" src="@/assets/imagens/image copy.png"/>
+    <img class="home-img" src="/imagens/image copy.png" />
     <caroselProdutos/>
   </main>
 </template>

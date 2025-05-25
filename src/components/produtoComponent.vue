@@ -21,7 +21,7 @@ function createUrlImage(src) {
                 <img class="produto-img" :src="createUrlImage(produto.img)" />
                 <span class="produto-nome">{{ produto.nome}}</span>
                 <div>
-                    <img class="estrelas" src="@/assets/imagens/estrelas.png" />
+                    <img class="estrelas" src="/imagens/estrelas.png" />
                     <div class="comprar">
                 <span>R$ {{ produto.preco }},00</span>   <RouterLink to="/carrinho"><button @click="() => emit('carrinho', produto)" >Comprar</button></RouterLink></div>
             </div></div>

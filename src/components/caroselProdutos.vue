@@ -41,7 +41,7 @@ const produtos = ref([
     nome: 'Monster High Basic Frankie Stein - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/frankie-g1.png',
+    img: '/imagens/frankie-g1.png',
     categoria: 'geracao1',
   },
   {
@@ -49,7 +49,7 @@ const produtos = ref([
     nome: 'Monster High Basic Draculaura - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/draculaura-g1.png',
+    img: '/imagens/draculaura-g1.png',
     categoria: 'geracao1',
   },
   {
@@ -57,7 +57,7 @@ const produtos = ref([
     nome: 'Monster High Basic Lagoona - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/lagoona-g1.png',
+    img: '/imagens/lagoona-g1.png',
     categoria: 'geracao1',
   },
   {
@@ -65,7 +65,7 @@ const produtos = ref([
     nome: 'Monster High Basic Clawdeen Wolf - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/clawdeen-g1.png',
+    img: '/imagens/clawdeen-g1.png',
     categoria: 'geracao1',
   },
   {
@@ -73,7 +73,7 @@ const produtos = ref([
     nome: "Monster High School's Out Cleo de Nile - Mattel",
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/cleo-g1.png',
+    img: '/imagens/cleo-g1.png',
     categoria: 'geracao1',
   },
 
@@ -83,7 +83,7 @@ const produtos = ref([
     nome: "Monster High Ghoul's Beast Pet Cleo de Nile - Mattel",
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/cleo-g2.png',
+    img: '/imagens/cleo-g2.png',
     categoria: 'geracao2',
   },
   {
@@ -91,7 +91,7 @@ const produtos = ref([
     nome: 'Monster High One Team, One Scream! Venus - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/venus-g2.png',
+    img: '/imagens/venus-g2.png',
     categoria: 'geracao2',
   },
   {
@@ -99,7 +99,7 @@ const produtos = ref([
     nome: 'Monster High Monstrous Hair Ghouls Twyla - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/twyla-g2.png',
+    img: '/imagens/twyla-g2.png',
     categoria: 'geracao2',
   },
   {
@@ -107,7 +107,7 @@ const produtos = ref([
     nome: 'Monster High Dance The Fright Away Draculaura - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/draculaura-g2.png',
+    img: '/imagens/draculaura-g2.png',
     categoria: 'geracao2',
   },
   {
@@ -115,7 +115,7 @@ const produtos = ref([
     nome: 'Monster High Ghostbusters Frankie Stein - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/frankie-g2.png',
+    img: '/imagens/frankie-g2.png',
     categoria: 'geracao2',
   },
 
@@ -125,7 +125,7 @@ const produtos = ref([
     nome: 'Monster High Brand Boo Draculaura - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/draculaura-g3.png',
+    img: '/imagens/draculaura-g3.png',
     categoria: 'geracao3',
   },
   {
@@ -133,7 +133,7 @@ const produtos = ref([
     nome: 'Monster High Brand Boo Venus - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/venus-g3.png',
+    img: '/imagens/venus-g3.png',
     categoria: 'geracao3',
   },
   {
@@ -141,7 +141,7 @@ const produtos = ref([
     nome: 'Monster High Skullector Nefera de Nile - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/nefera-g3.png',
+    img: '/imagens/nefera-g3.png',
     categoria: 'geracao3',
   },
   {
@@ -149,7 +149,7 @@ const produtos = ref([
     nome: 'Monster High Skullector Clawdeen Wolf - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/clawdeen-g3.png',
+    img: '/imagens/clawdeen-g3.png',
     categoria: 'geracao3',
   },
   {
@@ -157,7 +157,7 @@ const produtos = ref([
     nome: 'Monster High Monster Fest Frankie Stein - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/frankie-g3.png',
+    img: '/imagens/frankie-g3.png',
     categoria: 'geracao3',
   },
 
@@ -167,7 +167,7 @@ const produtos = ref([
     nome: 'Monster High Skullector Addams Family - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/addams-terror.png',
+    img: '/imagens/addams-terror.png',
     categoria: 'terror',
   },
   {
@@ -175,7 +175,7 @@ const produtos = ref([
     nome: 'Monster High Collector IT Pennywise - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/pennywise-terror.png',
+    img: '/imagens/pennywise-terror.png',
     categoria: 'terror',
   },
   {
@@ -183,7 +183,7 @@ const produtos = ref([
     nome: 'Monster High Skullector Annabelle - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/annabelle-terror.png',
+    img: '/imagens/annabelle-terror.png',
     categoria: 'terror',
   },
   {
@@ -191,7 +191,7 @@ const produtos = ref([
     nome: 'Monster High Skullector The Shining Grady Twins - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/grady-terror.png',
+    img: '/imagens/grady-terror.png',
     categoria: 'terror',
   },
   {
@@ -199,7 +199,7 @@ const produtos = ref([
     nome: 'Monster High Skullector Elvira: Mistress of the Dark - Mattel',
     preco: 500.0,
     qntCarrinho: '0',
-    img: '../assets/imagens/elvira-terror.png',
+    img: '/imagens/elvira-terror.png',
     categoria: 'terror',
   },
 ])
@@ -210,7 +210,7 @@ const produtos = ref([
       <div class="categoria">
         <div class="categoria-titulo">
         <h1>{{ categoria }}</h1></div>
-        <img class="caveira" src="@/assets/imagens/caveira.png" />
+        <img class="caveira" src="/imagens/caveira.png" />
       </div>
       <div class="produtos-categoria">
         <Carousel :itemsToShow="isSmallScreen ? 1.2 : itemsToShow" :transition="500">
